@@ -1,6 +1,6 @@
 # ⚖️ AI-Lawyer 
 
-**AI-Lawyer** is an AI powered web application designed to make legal advice fast, clear, and accessible. Users can chat directly via **voice** with an AI legal consultant to ask questions about Indian laws, analyze legal documents in plain language, and search for qualified lawyers.
+**AI Lawyer** is an AI powered web application designed to make legal advice fast, clear, and accessible. Users can chat directly via **voice** with an AI legal consultant to ask questions about Indian laws, analyze legal documents in plain language, and search for qualified lawyers.
 
 ---
 
